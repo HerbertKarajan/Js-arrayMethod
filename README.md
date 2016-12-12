@@ -11,7 +11,7 @@ npm run test
 
 ### List
 
-+ [unique an array 数组去重]('./code/unique.js')
++ [unique an array 数组去重]('../code/unique.js')
 + [random string 随机字符串]('./code/random-string.js')
 + [find duplicate char 寻找重复字符]('./code/find-the-max-duplicate-chat.js')
 + [find the maxium value 寻找最大值]('./code/find-max.js')
