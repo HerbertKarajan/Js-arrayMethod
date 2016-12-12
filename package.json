@@ -1,0 +1,31 @@
+{
+  "name": "Js-arrayMethod",
+  "version": "1.0.0",
+  "description": "[![npm](https://img.shields.io/npm/v/npm.svg?maxAge=2592000)]() [![Build Status](https://travis-ci.org/JackPu/JavaScript-Algorithm-Learning.svg?branch=master)](https://travis-ci.org/JackPu/JavaScript-Algorithm-Learning)",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerbertKarajan/Js-arrayMethod.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HerbertKarajan/Js-arrayMethod/issues"
+  },
+  "homepage": "https://github.com/HerbertKarajan/Js-arrayMethod#readme",
+  "devDependencies": {
+    "browserify": "^13.1.0",
+    "jasmine-core": "*",
+    "karma": "^1.3.0",
+    "karma-browserify": "^5.1.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-commonjs": "^1.0.0",
+    "karma-firefox-launcher": "^1.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.2",
+    "watchify": "^3.7.0"
+  }
+}
